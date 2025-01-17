@@ -1,5 +1,5 @@
-title: "Mein Blog"
-description: "Ein Blog über Technologie, Webentwicklung und Design."
+title: "Skyline 32"
+description: "Ein Blog über den Skyline 32 GTR."
 url: "https://dein-benutzername.github.io"
 baseurl: "/mein-blog"  # Wenn du deine Seite in einem Unterordner hast
 theme: "jekyll-theme-minimal"
@@ -12,7 +12,7 @@ collections:
     navbar:
   - title: Home
     url: /
-  - title: Über mich
+  - title: Über den Skyline
     url: /about
   - title: Blog
     url: /blog
