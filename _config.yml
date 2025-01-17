@@ -1,0 +1,18 @@
+title: "Mein Blog"
+description: "Ein Blog über Technologie, Webentwicklung und Design."
+url: "https://dein-benutzername.github.io"
+baseurl: "/mein-blog"  # Wenn du deine Seite in einem Unterordner hast
+theme: "jekyll-theme-minimal"
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+    navbar:
+  - title: Home
+    url: /
+  - title: Über mich
+    url: /about
+  - title: Blog
+    url: /blog
