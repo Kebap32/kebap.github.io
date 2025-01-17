@@ -1,7 +1,6 @@
 title: "Skyline 32"
 description: "Ein Blog über den Skyline 32 GTR."
 url: "https://dein-benutzername.github.io"
-baseurl: "/mein-blog"  # Wenn du deine Seite in einem Unterordner hast
 theme: "jekyll-theme-minimal"
 permalink: /:year/:month/:day/:title/
 markdown: kramdown
